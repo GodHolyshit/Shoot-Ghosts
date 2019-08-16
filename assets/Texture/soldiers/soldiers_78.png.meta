@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d7136b11-6851-457a-974d-010ba7d19d66",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "soldiers_78": {
+      "ver": "1.0.3",
+      "uuid": "d7c7366d-4d5f-4152-9fdb-4e0ada35e852",
+      "rawTextureUuid": "d7136b11-6851-457a-974d-010ba7d19d66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 73,
+      "rawWidth": 48,
+      "rawHeight": 73,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

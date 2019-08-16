@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8cae657c-b05e-4f8e-87d2-d5427859033d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "healthbar2-sheet0": {
+      "ver": "1.0.3",
+      "uuid": "c0c56a50-6031-4157-8cb0-acee6e2e6365",
+      "rawTextureUuid": "8cae657c-b05e-4f8e-87d2-d5427859033d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 64,
+      "height": 4,
+      "rawWidth": 66,
+      "rawHeight": 6,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 1334,
+  "design-resolution-width": 750,
+  "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": false,
+  "fit-width": true,
+  "group-list": [
+    "default",
+    "player",
+    "bullet",
+    "enemy"
+  ],
+  "last-module-event-record-time": 0,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "4e3bca71-2426-4be1-80e6-681e914393d7",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}
